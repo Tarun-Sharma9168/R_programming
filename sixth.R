@@ -1,0 +1,10 @@
+str1="the quick brown fox jumps over the lazy dog"
+print("Original Vector String")
+print(str1)
+print("Unique Elements of str1")
+print(unique(tolower(str1)))
+nums=c(1,2,3,2,2,3,3,4)
+print("Original vector(number)")
+print(nums)
+print("Unique Element Vectors")
+print(unique(nums))

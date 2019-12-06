@@ -1,0 +1,6 @@
+nums=c(10,20,30)
+print("Mean Median Mode")
+print(nums)
+print(paste("sum of vector elements",sum(nums)))
+print(paste("Mean Of vector elements",mean(nums)))
+print(paste("product of vector elements",prod(nums)))

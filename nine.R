@@ -1,0 +1,10 @@
+a<-c(1,2,3,4,5,6)
+b=c("Red","Ball","White")
+C=c(TRUE,FALSE,FALSE,TRUE,FALSE)
+
+print(a)
+print(typeof(a))
+print(b)
+print(typeof(b))
+print(C)
+print(typeof(C))
